@@ -4,8 +4,8 @@ Good resource for checking the assumptions for LM: https://ademos.people.uic.edu
 
 
 Assumptions are :
-• Linear relationship
-• Multivariate normality
-• No or little multicollinearity
-• No auto-correlation
-• Homoscedasticity
+• Linear relationship  
+• Multivariate normality  
+• No or little multicollinearity  
+• No auto-correlation  
+• Homoscedasticity  
