@@ -4,7 +4,7 @@ library(tidyverse)
 library(data.table)
 #library(nlme)
 library(lme4)
-library(emmeans)
+#library(emmeans) #for estimated marginal means. Can also do post-hoc contrasts, but is very intensive for large datasets e.g. here.  
 library(report)
 #library(stargazer) # for LateX-friendly tables. 
 #library(patchwork)
